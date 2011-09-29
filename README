@@ -1,0 +1,9 @@
+Snap Map is a open source project to build a social mapping app for mobile devices. The goal of Snap Map is to render a OpenStreetMaps map and allow users to snap in virtually any data source through API connectors. This project is currently under development and a full version of the mobile app has not been released yet. The core framework is built using Sencha Touch.
+
+Some things collaborators can assist on:
+
+1. Open Street Maps integration
+2. Social Network integration with Facebook, Twitter, Linkedin, Foursquare
+3. Integration with any existing and freely available data source.
+
+Questions can be directed to Geoff Sakala geoffreysakala@gmail.com
